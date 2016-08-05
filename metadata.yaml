@@ -1,0 +1,25 @@
+_repo: Why-Worry-_8554
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walton, George Lincoln
+    alias: Walton, G. L. (George Lincoln)
+    birthdate: 1854
+    deathdate: 1941
+    gutenberg_agent_id: '2800'
+    url: http://www.gutenberg.org/2009/agents/2800
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Worry'
+- !lcc 'BF'
+- GITenberg
+title: Why Worry?
+url: http://www.gutenberg.org/ebooks/8554
